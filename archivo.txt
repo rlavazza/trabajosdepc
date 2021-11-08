@@ -1,0 +1,1 @@
+[{"nombre":"Roxana Lavazza","dni":"22653852","tel":"47174564","correo":"rlavazza@gmail.com","imagen":"2021110804112114.JPG"},{"nombre":"Pablo Argivay","dni":"25365248","tel":"2567852","correo":"pablito@gmail.com","imagen":""},{"nombre":"Gabriela French","dni":"35895356","tel":"47285956","correo":"gafrench@yahoo.com","imagen":""}]

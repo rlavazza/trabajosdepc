@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(../imagenes/gris-claro.jpg);
+    background-size: cover;
+    }
+.registro{
+    background-color: rgb(211, 208, 208);
+}
+.nav a{
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+}
+h1{
+    font-size: 32px;
+}
+h2{
+    font-size: 22px;
+    color: azure;
+}
+
+label{
+    font-size: 18px;
+ }
+
+.btn:hover{
+    color: black;
+    font-weight: bold;
+}
+.fas{
+    color: black;
+}
+.linea{
+    border-bottom: rgb(137, 223, 235);
+    border-top:rgb(137, 223, 235);
+    border-style: double;
+}
